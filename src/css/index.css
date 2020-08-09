@@ -1,0 +1,9 @@
+body {
+    background-color: hotpink;
+
+}
+div {
+    display: flex;
+    transform: translateX(30px);
+    background: url('../img/react中scss模块化配值.png');
+}
